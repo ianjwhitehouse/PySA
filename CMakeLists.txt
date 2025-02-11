@@ -56,7 +56,7 @@ include(ExternalProject)
 
 ExternalProject_Add(
         pysa-branching
-        GIT_REPOSITORY https://github.com/nasa/pysa.git
+        GIT_REPOSITORY https://github.com/ianjwhitehouse/pysa.git
         GIT_TAG pysa-branching
         GIT_SHALLOW 1
         GIT_PROGRESS 1
